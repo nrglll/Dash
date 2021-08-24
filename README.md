@@ -1,2 +1,2 @@
 # Dash
- Building data visualization apps with dash-jupyter
+ Building data visualization apps with jupyter-dash
